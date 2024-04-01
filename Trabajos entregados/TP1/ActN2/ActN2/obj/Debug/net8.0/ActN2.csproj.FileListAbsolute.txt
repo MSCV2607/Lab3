@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\bin\Debug\net8.0\ActN2.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\bin\Debug\net8.0\ActN2.deps.json
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\bin\Debug\net8.0\ActN2.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\bin\Debug\net8.0\ActN2.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\bin\Debug\net8.0\ActN2.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\refint\ActN2.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ActN2.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN2\ActN2\obj\Debug\net8.0\ref\ActN2.dll

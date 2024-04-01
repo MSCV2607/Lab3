@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\bin\Debug\net8.0\ActN5.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\bin\Debug\net8.0\ActN5.deps.json
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\bin\Debug\net8.0\ActN5.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\bin\Debug\net8.0\ActN5.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\bin\Debug\net8.0\ActN5.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\refint\ActN5.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ActN5.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\ActN5\ActN5\obj\Debug\net8.0\ref\ActN5.dll

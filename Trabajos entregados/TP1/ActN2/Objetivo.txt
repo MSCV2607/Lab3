@@ -1,0 +1,1 @@
+Realice un programa que solicite al usuario el ingreso de un número y que le muestre los diez primeros valores de la tabla de multiplicar de ese número.

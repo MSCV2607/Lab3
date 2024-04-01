@@ -1,0 +1,1 @@
+Realice un programa en c# que muestre los numeros del cero al 100 utilizando las siguientes estructuras while, do- while,for. 

@@ -1,0 +1,1 @@
+Realice un programa que solicite el primer día de cada uno de los doce meses del año. Con esta información podrá pedir al sistema que dada una determinada fecha el mismo le indique que día será. El sistema también podrá responder al requerimiento que fechas caen los fines de semana de un determinado mes.
