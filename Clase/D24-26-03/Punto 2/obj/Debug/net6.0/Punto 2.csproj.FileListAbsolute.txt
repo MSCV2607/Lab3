@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\LabMS\Punto 2\bin\Debug\net6.0\Punto 2.exe
+C:\Users\Usuario\Documents\LabMS\Punto 2\bin\Debug\net6.0\Punto 2.deps.json
+C:\Users\Usuario\Documents\LabMS\Punto 2\bin\Debug\net6.0\Punto 2.runtimeconfig.json
+C:\Users\Usuario\Documents\LabMS\Punto 2\bin\Debug\net6.0\Punto 2.dll
+C:\Users\Usuario\Documents\LabMS\Punto 2\bin\Debug\net6.0\Punto 2.pdb
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.AssemblyInfo.cs
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.dll
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\refint\Punto 2.dll
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.pdb
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\Punto 2.genruntimeconfig.cache
+C:\Users\Usuario\Documents\LabMS\Punto 2\obj\Debug\net6.0\ref\Punto 2.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\LabMS\Practico\bin\Debug\net6.0\Practico.exe
+C:\Users\Usuario\Documents\LabMS\Practico\bin\Debug\net6.0\Practico.deps.json
+C:\Users\Usuario\Documents\LabMS\Practico\bin\Debug\net6.0\Practico.runtimeconfig.json
+C:\Users\Usuario\Documents\LabMS\Practico\bin\Debug\net6.0\Practico.dll
+C:\Users\Usuario\Documents\LabMS\Practico\bin\Debug\net6.0\Practico.pdb
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.AssemblyInfo.cs
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.dll
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\refint\Practico.dll
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.pdb
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\Practico.genruntimeconfig.cache
+C:\Users\Usuario\Documents\LabMS\Practico\obj\Debug\net6.0\ref\Practico.dll
