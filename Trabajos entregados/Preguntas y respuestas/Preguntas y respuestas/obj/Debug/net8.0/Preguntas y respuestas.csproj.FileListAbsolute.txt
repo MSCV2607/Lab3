@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.exe
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.deps.json
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\bin\Debug\net8.0\Preguntas y respuestas.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\refint\Preguntas y respuestas.dll
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.pdb
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\Preguntas y respuestas.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\C#LAB\Entrega\Preguntas y respuestas\Preguntas y respuestas\obj\Debug\net8.0\ref\Preguntas y respuestas.dll
