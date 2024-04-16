@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\cajero automatico\\cajero automatico\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|solutionrelative:cajero automatico\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\cajero automatico\\cajero automatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|solutionrelative:cajero automatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\cajero automatico\\cajero automatico\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|solutionrelative:cajero automatico\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\cajero automatico\\cajero automatico\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|solutionrelative:cajero automatico\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|c:\\users\\mauro\\onedrive\\escritorio\\c#lab\\entrega\\cajero automatico\\cajero automatico\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1007E106-5457-4A7E-A1EA-5A95B342A13B}|Cajero Automatico\\Cajero Automatico.csproj|solutionrelative:cajero automatico\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Program.cs",
+              "RelativeDocumentMoniker": "Cajero Automatico\\Program.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Program.cs",
+              "RelativeToolTip": "Cajero Automatico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:13:14.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cajero.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Cajero.cs",
+              "RelativeDocumentMoniker": "Cajero Automatico\\Cajero.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Cajero.cs",
+              "RelativeToolTip": "Cajero Automatico\\Cajero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:50:15.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Cajero Automatico\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\CuentaBancaria.cs",
+              "RelativeToolTip": "Cajero Automatico\\CuentaBancaria.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:24:49.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Usuario.cs",
+              "RelativeDocumentMoniker": "Cajero Automatico\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Usuario.cs",
+              "RelativeToolTip": "Cajero Automatico\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:42:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Operacion.cs",
+              "RelativeDocumentMoniker": "Cajero Automatico\\Operacion.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\Escritorio\\C#LAB\\Entrega\\Cajero Automatico\\Cajero Automatico\\Operacion.cs",
+              "RelativeToolTip": "Cajero Automatico\\Operacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:54:06.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
